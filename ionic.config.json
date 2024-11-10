@@ -1,0 +1,7 @@
+{
+  "name": "HawrylApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
