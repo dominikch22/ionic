@@ -1,2 +1,12 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+.container{
+    max-width: 1320px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.blue-button{
+    max-width: 200px;
+    margin: 20px auto;
+}
